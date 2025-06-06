@@ -1,0 +1,8 @@
+timestamp,sex,age,weight,height,activity_level,food_allergies
+2025-06-06 15:04:12,male,19,65,170,very_active,"seafood,dairy,gluten"
+2025-06-06 15:26:34,female,34,87,230,very_active,seafood
+2025-06-06 15:29:07,female,56,76,170,active,dairy
+2025-06-06 15:32:08,male,32,75,110,sedentary,seafood
+2025-06-06 15:33:11,female,45,65,150,very_active,seafood
+2025-06-06 15:40:40,male,19,75,150,very_active,seafood
+2025-06-06 15:59:06,Male,19,76.0,176.0,very_active,seafood
